@@ -106,8 +106,6 @@ const movieTemplate = (movieDetail) => {
         }
     }, 0);
 
-    console.log(awards);
-
     return `
         <article class="media">
             <figure class="media-left">
